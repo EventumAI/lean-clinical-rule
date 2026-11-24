@@ -1,0 +1,5 @@
+[
+  {"id": "on-dialysis", "evidence": {"age": "holds", "riskFactor": "holds", "risk": "holds", "noDialysis": "fails", "noStatin": "holds"}},
+  {"id": "dialysis-unknown", "evidence": {"age": "holds", "riskFactor": "holds", "risk": "holds", "noDialysis": "unresolved", "noStatin": "holds"}},
+  {"id": "all-five-hold", "evidence": {"age": "holds", "riskFactor": "holds", "risk": "holds", "noDialysis": "holds", "noStatin": "holds"}}
+]
